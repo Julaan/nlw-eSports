@@ -13,6 +13,6 @@ Projeto criado no evento Next Level Week da Rocketseat.
 - CSS
 - Git e Github
 
-## 👨‍💻 Contato
+## 📩 Contato
 
 jumarina@gmail.com
